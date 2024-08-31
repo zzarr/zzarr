@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamad Azhar Syah</h1>
 <h3 align="center">A passionate frontend & Backend in web dev</h3>
 
-- 🔭 I’m currently working on **SHOPAN**
+- 🔭 I’m currently working on [SHOPAN](https://github.com/zzarr/Smart-Ecomerce-web)
 
 - 🌱 I’m currently learning **Laravel, Express**
 
