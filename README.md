@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamad Azhar Syah (NACHZEHRER)</h1>
 <h3 align="center">A passionate frontend & Backend in web dev</h3>
 
-- 🔭 I’m currently working on [Skrining Kesehatan Jiwa](https://github.com/zzarr/Smart-Ecomerce-web) (Shop Panen)
+- 🔭 I’m currently working on [Skrining Kesehatan Jiwa](https://github.com/zzarr/Smart-Ecomerce-web) 
 
 - 🌱 I’m currently learning **Laravel, Express & Python**
 
