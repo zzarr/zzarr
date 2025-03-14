@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **azharsyah.curug@gmail.com**
 
-- ⚡ Fun fact **I think I like sunshine more than anything**
+- ⚡ Fun fact **I like sunshine more than anything**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
