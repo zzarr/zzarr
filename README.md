@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamad Azhar Syah (NACHZEHRER)</h1>
 <h3 align="center">A passionate frontend & Backend in web dev</h3>
 
-- 🔭 I’m currently working on [REMIND](https://github.com/zzarr/REMIND) 
 
 - 🌱 I’m currently learning **Laravel, Express & Python**
 
