@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **azharsyah.curug@gmail.com**
 
-- ⚡ Fun fact **I love sunshine*
+- ⚡ Fun fact **I love sunshine**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
