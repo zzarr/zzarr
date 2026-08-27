@@ -5,7 +5,7 @@ I'm a passionate developer focused on web development, cloud infrastructure, and
 ## 🚀 About Me
 - 🎓 I recently graduated from **Politeknik Negeri Indramayu**.
 - 🔭 I’m actively managing web development projects such as `remind.web.id` and `pulihbersama.id`.
-- 🌱 I’m currently exploring and working with **ASP.NET Core**, **Redis**, and modern UI libraries like **Shadcn/UI**.
+- 🌱 I’m currently exploring and working with **LARAVEL**, **Express.js**, and modern UI libraries like **Bootstrap**.
 - 🤖 I have a strong interest in **Generative AI**, specifically building applications and AI agents using **Google AI Studio**.
 - ⚡ Fun fact: I enjoy exploring image enhancement technologies, specifically upscaling images to 4K resolution.
 
