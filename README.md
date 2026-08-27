@@ -3,9 +3,9 @@
 I'm a passionate developer focused on web development, cloud infrastructure, and integrating Generative AI into modern applications. 
 
 ## 🚀 About Me
-- 🎓 I studied at **Politeknik Negeri Indramayu**.
+- 🎓 I recently graduated from **Politeknik Negeri Indramayu**.
 - 🔭 I’m actively managing web development projects such as `remind.web.id` and `pulihbersama.id`.
-- 🌱 I’m currently exploring and working with **LARAVWL**, **Express.js**, and modern UI libraries like **Bootstrap**.
+- 🌱 I’m currently exploring and working with **ASP.NET Core**, **Redis**, and modern UI libraries like **Shadcn/UI**.
 - 🤖 I have a strong interest in **Generative AI**, specifically building applications and AI agents using **Google AI Studio**.
 - ⚡ Fun fact: I enjoy exploring image enhancement technologies, specifically upscaling images to 4K resolution.
 
@@ -13,25 +13,29 @@ I'm a passionate developer focused on web development, cloud infrastructure, and
 
 ### 💻 Backend & Frameworks
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
 ### 🗄️ Database & Cloud
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Alibaba Cloud](https://img.shields.io/badge/Alibaba_Cloud-FF6A00?style=for-the-badge&logo=alibabacloud&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ### 🧠 AI Tools
 ![Google AI](https://img.shields.io/badge/Google_AI_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
 
 ## 📈 GitHub Stats
-[![Azhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)](https://github.com/YOUR_GITHUB_USERNAME)
-
+[![Azhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=zzarr&show_icons=true&theme=radical)](https://github.com/zzarr)
+*(Catatan: Ganti `YOUR_GITHUB_USERNAME` dengan username GitHub Anda yang sebenarnya)*
 
 ## 📫 Let's Connect!
 - **LinkedIn:** [Mohamad Azhar Syah](#) *(Masukkan link profil Anda di sini)*
-- **Email:** *(Masukkan email profesional Anda)*
+- **Email:** *(azharsyah.curug@gmail.com)*
 
 ---
 ⭐️ From [Azhar Syah](https://github.com/zzarr)
