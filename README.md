@@ -31,7 +31,7 @@ I'm a passionate developer focused on web development, cloud infrastructure, and
 
 ## 📈 GitHub Stats
 [![Azhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=zzarr&show_icons=true&theme=radical)](https://github.com/zzarr)
-*(Catatan: Ganti `YOUR_GITHUB_USERNAME` dengan username GitHub Anda yang sebenarnya)*
+
 
 ## 📫 Let's Connect!
 - **LinkedIn:** [Mohamad Azhar Syah](#) *(Masukkan link profil Anda di sini)*
