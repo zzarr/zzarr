@@ -34,7 +34,7 @@ I'm a passionate developer focused on web development, cloud infrastructure, and
 
 
 ## 📫 Let's Connect!
-- **LinkedIn:** [Mohamad Azhar Syah](#) *(Masukkan link profil Anda di sini)*
+- **LinkedIn:** [Mohamad Azhar Syah](#) 
 - **Email:** *(azharsyah.curug@gmail.com)*
 
 ---
